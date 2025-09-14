@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Nur</h1>
-<h2 align="center">🚀 CS Student | 💡 Software Developer | 🎯 AI Enthusiast | Researcher Enthusiast | 💬 Lifelong Learner</h2>
+<h2 align="center">🚀 CS Student | 💡 Software Developer | 🎯 AI Enthusiast | Research Enthusiast | 💬 Lifelong Learner</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72585&center=true&vCenter=true&width=435&lines=Code.+Create.+Innovate.;Exploring+AI+%26+ML+with+Python;Building+with+C%23%2C+Flutter%2C+.NET+MAUI;Connecting+Tech+to+Real+Life!" alt="Typing SVG" />
