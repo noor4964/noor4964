@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🎓 3rd-year CSE student at AIUB  
+- 🎓 Final CSE student at AIUB  
 - 🧠 Currently mastering **DSA** and diving deep into **Machine Learning**
 - 💬 I love solving real-world problems with code  
 - 🏗️ Building smart apps using **.NET MAUI, Flutter, PyQt6, Arduino, Firebase**
